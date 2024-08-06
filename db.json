@@ -1,0 +1,26 @@
+{
+  "users": [],
+  "stickyNotes": [
+    {
+      "title": "dsgsfgsfgsfg",
+      "description": "sfgsfgsfgsfgsfgsfgfsg",
+      "bgColor": "#f8e002",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "sfgdfhdgh",
+      "description": "gjfjfjfjfjfj",
+      "bgColor": "#02f0f8",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "fgdfgdgfhdghdghdgh",
+      "description": "fgjfhjfhjhfjfhjfhjhfj",
+      "bgColor": "#02f0f8",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
